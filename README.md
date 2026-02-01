@@ -17,9 +17,9 @@ This project was created as a practice to improve my front-end development skill
 - Visual alert when the password is copied
 
 # Technologies Used
--Html – Structure
--Css – Styling and layout
--JavaScript (Vanilla) – Logic and interactivity
+- Html – Structure
+- Css – Styling and layout
+- JavaScript (Vanilla) – Logic and interactivity
 
 # Purpose of the Project
 - DOM manipulation
@@ -27,4 +27,5 @@ This project was created as a practice to improve my front-end development skill
 - Random value generation
 
   ![WhatsApp Image 2026-02-01 at 4 08 33 PM](https://github.com/user-attachments/assets/67b07b27-7cfc-4b70-ac2f-0beb35f1e9a5)
+
 
